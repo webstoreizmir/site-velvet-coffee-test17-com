@@ -1,120 +1,114 @@
 {
-  "is_paid": false,
   "metadata": {
-    "title": "Modern Ajans Pro",
-    "description": "Profesyonel dijital çözümler."
+    "title": "Velvet Coffee Roastery | İzmir'in Nitelikli Kahvecisi",
+    "description": "İzmir, Bostanlı'da taze kavrulmuş 3. nesil kahve deneyimi. Kendi ithalatımız çekirdekler, eşsiz tatlılar ve rahat çalışma ortamı."
   },
   "theme": {
     "colors": {
-      "primary": "#2563eb",
-      "secondary": "#1e40af",
-      "background": "#0f172a",
-      "text": "#f8fafc"
+      "primary": "#A0522D",
+      "secondary": "#4A4A4A",
+      "background": "#F5F5DC",
+      "text": "#333333"
     },
     "fonts": {
-      "heading": "Montserrat",
+      "heading": "Inter",
       "body": "Inter"
     },
     "style": "modern"
   },
   "images": {
-    "hero_keyword": "modern office architecture glass",
-    "about_keyword": "team meeting creative",
+    "hero_keyword": "minimalist coffee shop interior",
+    "about_keyword": "coffee bean roasting",
     "feature_keywords": [
-      "code",
-      "design",
-      "rocket"
+      "latte art",
+      "espresso machine",
+      "pastries"
     ]
   },
   "content": {
     "hero": {
-      "headline": "Geleceği Şekillendiriyoruz",
-      "subheadline": "İşletmeniz için en modern teknolojileri kullanarak dijital dünyada fark yaratın.",
-      "ctaButtonText": "Hemen Başlayın"
+      "headline": "İzmir'in Kalbinde Taze Kavrulmuş Kahve",
+      "subheadline": "Kendi ithalatımız özel çekirdekler, usta baristalarımızın ellerinde sanata dönüşüyor. Rahat çalışma ortamı ve eşsiz lezzetler sizi bekliyor.",
+      "ctaButtonText": "Menümüzü Keşfet"
     },
     "about": {
-      "title": "Biz Kimiz?",
-      "description": "2010 yılından beri sektörde öncü çözümler üretiyoruz. Müşteri memnuniyeti odaklı yaklaşımımızla markanızı zirveye taşıyoruz.",
+      "title": "Tutkumuz: Nitelikli Kahve",
+      "description": "Velvet Coffee Roastery olarak, dünyanın en iyi kahve tarlalarından özenle seçtiğimiz çekirdekleri haftalık olarak İzmir'deki kavurmahanemizde işliyoruz. Amacımız, her fincanda en taze ve en lezzetli kahve deneyimini freelance çalışanlar ve kahve severler için sunmaktır.",
       "stats": [
         {
-          "label": "Tamamlanan Proje",
-          "value": "500+"
+          "label": "Kahve Çeşidi",
+          "value": "15+"
         },
         {
-          "label": "Mutlu Müşteri",
-          "value": "150+"
-        },
-        {
-          "label": "Yıllık Deneyim",
-          "value": "12"
+          "label": "Haftalık Taze Kavurum",
+          "value": "Evet"
         }
       ]
     },
     "services": [
       {
-        "title": "Web Tasarım",
-        "description": "Mobil uyumlu, hızlı ve modern web siteleri.",
-        "icon": "💻"
+        "title": "Espresso Bar",
+        "description": "Klasik ve modern espresso bazlı içecekler, deneyimli baristalarımızın dokunuşuyla hazırlanır.",
+        "icon": "☕"
       },
       {
-        "title": "SEO Optimizasyonu",
-        "description": "Google'da ilk sıralarda yerinizi alın.",
-        "icon": "🚀"
+        "title": "Filtre Kahve & Demleme",
+        "description": "V60, Chemex ve Aeropress gibi 3. nesil demleme yöntemleriyle hazırlanan nitelikli kahveler.",
+        "icon": "💧"
       },
       {
-        "title": "Sosyal Medya",
-        "description": "Markanızın sesini dünyaya duyurun.",
-        "icon": "📱"
-      }
-    ],
-    "testimonials": [
-      {
-        "name": "Ahmet Yılmaz",
-        "role": "CEO, Tech Corp",
-        "comment": "Harika bir ekip, işlerini zamanında ve mükemmel yapıyorlar."
-      },
-      {
-        "name": "Ayşe Demir",
-        "role": "Pazarlama Müdürü",
-        "comment": "Satışlarımız %200 arttı. Kesinlikle tavsiye ediyorum."
+        "title": "Çekirdek Satışı & Tatlılar",
+        "description": "Taze kavrulmuş çekirdeklerimizi evinize taşıyın ve kahvenize eşlik edecek eşsiz tatlılarımızı deneyin.",
+        "icon": "🍰"
       }
     ],
     "process": [
       {
         "step": "01",
-        "title": "Keşif ve Analiz",
-        "description": "İhtiyaçlarınızı dinliyor, hedeflerinizi belirliyoruz."
+        "title": "Özenli Seçim",
+        "description": "Dünyanın en iyi bölgelerinden, sürdürülebilir tarım ilkeleriyle yetiştirilmiş yeşil kahve çekirdeklerini ithal ediyoruz."
       },
       {
         "step": "02",
-        "title": "Tasarım ve Planlama",
-        "description": "Modern ve kullanıcı dostu tasarımlar oluşturuyoruz."
+        "title": "Usta Kavurma",
+        "description": "Her çekirdeğin kendine özgü karakterini ortaya çıkarmak için hassas profillerle haftalık olarak kavuruyoruz."
       },
       {
         "step": "03",
-        "title": "Geliştirme ve Teslimat",
-        "description": "Kodlama ve testleri tamamlayıp projenizi teslim ediyoruz."
+        "title": "Mükemmel Sunum",
+        "description": "Baristalarımız, taze kavrulmuş kahvelerimizi en doğru demleme tekniğiyle hazırlayarak size sunuyor."
       }
     ],
     "faq": [
       {
-        "question": "Proje teslim süresi ne kadar?",
-        "answer": "Projenin kapsamına göre 2-6 hafta arasında değişmektedir."
+        "question": "Ev için çekirdek kahve satıyor musunuz?",
+        "answer": "Evet, haftalık kavurduğumuz taze çekirdek kahvelerimizi paketli olarak satın alabilir, isterseniz yerinde sizin için öğütebiliriz."
       },
       {
-        "question": "Ödeme koşulları nelerdir?",
-        "answer": "%50 peşin, %50 teslimat sonrası ödeme planı sunuyoruz."
+        "question": "Çalışmak için uygun bir ortam var mı?",
+        "answer": "Kesinlikle. Misafirlerimizin rahatça çalışabilmesi için ücretsiz Wi-Fi ve bolca priz bulunan konforlu bir ortam sunuyoruz."
       },
       {
-        "question": "Destek hizmeti veriyor musunuz?",
-        "answer": "Evet, teslim sonrası 6 ay ücretsiz teknik destek sağlıyoruz."
+        "question": "Vegan veya glutensiz seçenekleriniz mevcut mu?",
+        "answer": "Evet, menümüzde bitkisel süt seçenekleri ve glutensiz olarak hazırlanan lezzetli tatlı alternatiflerimiz bulunmaktadır."
+      },
+      {
+        "question": "Hangi demleme yöntemlerini kullanıyorsunuz?",
+        "answer": "Espresso bazlı içeceklerin yanı sıra V60, Chemex, Aeropress ve Cold Brew gibi çeşitli 3. nesil demleme yöntemleri sunuyoruz."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Selin A.",
+        "role": "Müşteri",
+        "comment": "Sabah kahvesi için vazgeçilmez durağım."
       }
     ],
     "contact": {
-      "address": "Levent, Büyükdere Cd. No:1, İstanbul",
-      "phone": "+90 555 123 45 67",
-      "email": "info@modernajans.com",
-      "map_query": "Istanbul"
+      "address": "Bostanlı, İzmir",
+      "phone": "0232 444 55 66",
+      "email": "cankavlak@gmail.com",
+      "map_query": "Velvet Coffee Roastery, Bostanlı, İzmir"
     }
   }
 }
